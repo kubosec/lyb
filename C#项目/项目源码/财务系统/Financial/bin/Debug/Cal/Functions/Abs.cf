@@ -1,0 +1,12 @@
+
+//不要修改此行代码
+public static double Abs
+(
+double d
+)
+{
+
+   if(d<0)
+	return -d;
+   return d;
+}

@@ -1,0 +1,9 @@
+
+//不要修改此行代码
+public static double Atan
+(
+double d
+)
+{
+   return Math.Atan(d);
+}

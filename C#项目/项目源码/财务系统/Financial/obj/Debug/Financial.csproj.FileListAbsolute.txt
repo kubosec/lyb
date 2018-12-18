@@ -1,0 +1,34 @@
+G:\Program Files\下载\财务系统\Financial\obj\Debug\Financial.exe
+G:\Program Files\下载\财务系统\Financial\obj\Debug\Financial.pdb
+G:\Program Files\下载\财务系统\Financial\bin\Debug\Financial.exe
+G:\Program Files\下载\财务系统\Financial\bin\Debug\Financial.pdb
+G:\Program Files\下载\财务系统\Financial\obj\Debug\Financial.csprojResolveAssemblyReference.cache
+G:\Program Files\下载\财务系统\Financial\obj\Debug\Financial.AboutBox_AboutUs.resources
+G:\Program Files\下载\财务系统\Financial\obj\Debug\Financial.FormMain.resources
+G:\Program Files\下载\财务系统\Financial\obj\Debug\Financial.FormAccountManage.resources
+G:\Program Files\下载\财务系统\Financial\obj\Debug\Financial.FormAddAccount.resources
+G:\Program Files\下载\财务系统\Financial\obj\Debug\Financial.FormDebitManage.resources
+G:\Program Files\下载\财务系统\Financial\obj\Debug\Financial.FormFinancialManage.resources
+G:\Program Files\下载\财务系统\Financial\obj\Debug\Financial.FormLogin.resources
+G:\Program Files\下载\财务系统\Financial\obj\Debug\Financial.FormManageItem.resources
+G:\Program Files\下载\财务系统\Financial\obj\Debug\Financial.FormPswModify.resources
+G:\Program Files\下载\财务系统\Financial\obj\Debug\Financial.FormRegistNewUser.resources
+G:\Program Files\下载\财务系统\Financial\obj\Debug\Financial.Properties.Resources.resources
+G:\Program Files\下载\财务系统\Financial\obj\Debug\Financial.csproj.GenerateResource.Cache
+E:\学习\C#\大作业（新）\财务系统\Financial\obj\Debug\Financial.exe
+E:\学习\C#\大作业（新）\财务系统\Financial\obj\Debug\Financial.pdb
+E:\学习\C#\大作业（新）\财务系统\Financial\bin\Debug\Financial.exe
+E:\学习\C#\大作业（新）\财务系统\Financial\bin\Debug\Financial.pdb
+E:\学习\C#\大作业（新）\财务系统\Financial\obj\Debug\Financial.csprojResolveAssemblyReference.cache
+E:\学习\C#\大作业（新）\财务系统\Financial\obj\Debug\Financial.AboutBox_AboutUs.resources
+E:\学习\C#\大作业（新）\财务系统\Financial\obj\Debug\Financial.FormMain.resources
+E:\学习\C#\大作业（新）\财务系统\Financial\obj\Debug\Financial.FormAccountManage.resources
+E:\学习\C#\大作业（新）\财务系统\Financial\obj\Debug\Financial.FormAddAccount.resources
+E:\学习\C#\大作业（新）\财务系统\Financial\obj\Debug\Financial.FormDebitManage.resources
+E:\学习\C#\大作业（新）\财务系统\Financial\obj\Debug\Financial.FormFinancialManage.resources
+E:\学习\C#\大作业（新）\财务系统\Financial\obj\Debug\Financial.FormLogin.resources
+E:\学习\C#\大作业（新）\财务系统\Financial\obj\Debug\Financial.FormManageItem.resources
+E:\学习\C#\大作业（新）\财务系统\Financial\obj\Debug\Financial.FormPswModify.resources
+E:\学习\C#\大作业（新）\财务系统\Financial\obj\Debug\Financial.FormRegistNewUser.resources
+E:\学习\C#\大作业（新）\财务系统\Financial\obj\Debug\Financial.Properties.Resources.resources
+E:\学习\C#\大作业（新）\财务系统\Financial\obj\Debug\Financial.csproj.GenerateResource.Cache

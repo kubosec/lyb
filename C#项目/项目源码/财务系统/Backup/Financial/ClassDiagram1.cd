@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Font Name="宋体" Size="9" />
+  <Class Name="Financial.AccountCollection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AccountCollection.cs</FileName>
+      <HashCode>AAIAAgAACAAEAAAACAAABAQAAAAAAQAECAAAAAAAAAI=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Financial.AccountManager" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AccountManager.cs</FileName>
+      <HashCode>AAAAAAAAAAAAACQAAAAAAAgAIAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Financial.FormAccountManage" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormAccountManage.cs</FileName>
+      <HashCode>BBAcGD0hISgAQFIgAECAQEgGQAAAEUAAEAAAQICECZA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Financial.FormAddAccount" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormAddAccount.cs</FileName>
+      <HashCode>ECAAYAgQACAAABAAoAiAEAACAAAABEQAgCACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Financial.FormDebitManage" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormDebitManage.cs</FileName>
+      <HashCode>AAAcAA0AASAIQIAggECAAEgKAAAAAEACAAAAAAABAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Financial.FormFinancialManage" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormFinancialManage.cs</FileName>
+      <HashCode>gAAcAA0AASAIQBAhgECAAEgKAAAEEEACAAhAgQAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Financial.FormLog" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormLog.cs</FileName>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Financial.FormLogin" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormLogin.cs</FileName>
+      <HashCode>AAAABAABQCBAABAAQACACAICAABABIAAASAAAAQAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Financial.FormMain" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormMain.cs</FileName>
+      <HashCode>AQghFA1AASAAIASIioCAAAACBEAABL+ACCIAAAgIAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Financial.FormRegistNewUser" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FormRegistNewUser.cs</FileName>
+      <HashCode>AAAAQAABACAAABAAAACAEAACAAAABEAAAQAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Financial.Program" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Financial.User">
+    <Position X="9.5" Y="2.5" Width="3.25" />
+    <TypeIdentifier>
+      <FileName>User.cs</FileName>
+      <HashCode>AAAAAiIAIAIAAAAAACCQAAIAAgIAAAIAAQAAAAEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Financial.UserCollection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UserCollection.cs</FileName>
+      <HashCode>AAIAAgAACAAEAAAACAAABAQAAAAAAQAECAAAAAAAAAI=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Financial.UserManager" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UserManager.cs</FileName>
+      <HashCode>AACAgAAAAgAEAABAAAAAAAAAAAAAAAAAEAAAABIAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Financial.Properties.Resources" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Financial.Properties.Settings" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Financial.Account" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Account.cs</FileName>
+      <HashCode>wAABAIEBAAACABAAAgAQAAgAAgAIAAIAABUAAEAEAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

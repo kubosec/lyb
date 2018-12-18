@@ -1,0 +1,10 @@
+
+//不要修改此行代码
+public static double Cosh
+(
+double d
+)
+{
+
+   return Math.Cosh(d);
+}

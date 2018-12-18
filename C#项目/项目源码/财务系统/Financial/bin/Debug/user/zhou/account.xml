@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="gb2312"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <OwnerName>王跃</OwnerName>
+    <CardNum>435345345435</CardNum>
+    <BankbookNum>435345345345</BankbookNum>
+    <StartDate>2006-05-24T22:36:59</StartDate>
+    <BankName>招行</BankName>
+    <MoneyType>美元</MoneyType>
+    <AccountType>定期</AccountType>
+    <IniBlance>20000</IniBlance>
+    <RemainBlance>20005</RemainBlance>
+    <Remark>哈哈哈哈</Remark>
+  </Account>
+  <Account>
+    <OwnerName>王威</OwnerName>
+    <CardNum>654757567567657</CardNum>
+    <BankbookNum>68675435345</BankbookNum>
+    <StartDate>2006-05-02T12:19:45</StartDate>
+    <BankName>中国银行</BankName>
+    <MoneyType>Rmb</MoneyType>
+    <AccountType />
+    <IniBlance>2000</IniBlance>
+    <RemainBlance>70000</RemainBlance>
+    <Remark />
+  </Account>
+  <Account>
+    <OwnerName>周银辉</OwnerName>
+    <CardNum>435435435345</CardNum>
+    <BankbookNum>45435345345345</BankbookNum>
+    <StartDate>2006-05-30T22:35:50</StartDate>
+    <BankName>建行</BankName>
+    <MoneyType>人民币</MoneyType>
+    <AccountType>定期</AccountType>
+    <IniBlance>1000</IniBlance>
+    <RemainBlance>20000</RemainBlance>
+    <Remark>定期2年</Remark>
+  </Account>
+  <Account>
+    <OwnerName>余洋</OwnerName>
+    <CardNum>56456546546546</CardNum>
+    <BankbookNum>F5345345345345</BankbookNum>
+    <StartDate>2006-04-27T22:56:58</StartDate>
+    <BankName>农行</BankName>
+    <MoneyType>美元</MoneyType>
+    <AccountType>定期</AccountType>
+    <IniBlance>11111164</IniBlance>
+    <RemainBlance>456456456</RemainBlance>
+    <Remark>呵呵</Remark>
+  </Account>
+</ArrayOfAccount>

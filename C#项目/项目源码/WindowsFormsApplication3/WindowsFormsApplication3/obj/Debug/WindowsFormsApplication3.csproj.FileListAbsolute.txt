@@ -1,0 +1,64 @@
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_login.resources
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_register.resources
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_select.resources
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_sel_model.resources
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Interop.WMPLib.dll
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\AxInterop.WMPLib.dll
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_Main.resources
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+c:\users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kubo\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AccountManage.resources
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Interop.WMPLib.dll
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\AxInterop.WMPLib.dll
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AccountManage.resources
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_login.resources
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_register.resources
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_select.resources
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_sel_model.resources
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_Main.resources
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+G:\C#实训\大作业\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Interop.WMPLib.dll
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\AxInterop.WMPLib.dll
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AccountManage.resources
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_login.resources
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_register.resources
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_select.resources
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_sel_model.resources
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_Main.resources
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AddAccount.resources
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.EditAccount.resources
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Borrow.resources
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AddBorrow.resources
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AddBorrowIn.resources
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Info.resources
+E:\学习\C#\大作业（新）\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.EditP.resources

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="gb2312"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <DirOfDataFile>D:\WorkSpace\C#\TempOrTest\Financial\Financial\bin\Debug\user\zhou</DirOfDataFile>
+    <DirOfDataFile_Relative>\user\zhou</DirOfDataFile_Relative>
+    <PathOfDataFile_Account>D:\WorkSpace\C#\TempOrTest\Financial\Financial\bin\Debug\user\zhou\account.xml</PathOfDataFile_Account>
+    <PathOfDataFile_Account_Relative>\user\zhou\account.xml</PathOfDataFile_Account_Relative>
+    <UserName>zhou</UserName>
+    <PassWord>zhou</PassWord>
+    <IsAdministrator>false</IsAdministrator>
+  </User>
+  <User>
+    <DirOfDataFile>E:\学习\C#\大作业（新）\财务系统\Financial\bin\Debug\user\123</DirOfDataFile>
+    <DirOfDataFile_Relative>\user\123</DirOfDataFile_Relative>
+    <PathOfDataFile_Account>E:\学习\C#\大作业（新）\财务系统\Financial\bin\Debug\user\123\account.xml</PathOfDataFile_Account>
+    <PathOfDataFile_Account_Relative>\user\123\account.xml</PathOfDataFile_Account_Relative>
+    <UserName>123</UserName>
+    <PassWord>123</PassWord>
+    <IsAdministrator>false</IsAdministrator>
+  </User>
+</ArrayOfUser>

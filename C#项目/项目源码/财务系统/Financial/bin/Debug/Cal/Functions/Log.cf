@@ -1,0 +1,9 @@
+
+//不要修改此行代码
+public static double Log
+(
+double d
+)
+{
+   return Math.Log(d);
+}

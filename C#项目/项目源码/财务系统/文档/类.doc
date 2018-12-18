@@ -1,0 +1,188 @@
+{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fmodern\fprq6\fcharset134 \'cb\'ce\'cc\'e5;}}
+{\*\generator Msftedit 5.41.15.1507;}\viewkind4\uc1\pard\lang2052\f0\fs20 Account.cs \'d5\'ca\'bb\'a7\'c0\'e0\'d0\'cd                                               \par
+//\'ca\'f4\'d0\'d4\par
+AccountType \'bb\'f1\'c8\'a1\'bb\'f2\'c9\'e8\'d6\'c3\'d5\'ca\'bb\'a7\'c0\'e0\'d0\'cd string\par
+BankbookNum \'bb\'f1\'c8\'a1\'bb\'f2\'c9\'e8\'d6\'c3\'b4\'e6\'d5\'db\'ba\'c5 string\par
+CardNum \'bb\'f1\'c8\'a1\'bb\'ee\'c9\'e8\'d6\'c3\'bf\'a8\'ba\'c5 string\par
+IniBlance \'bb\'f1\'c8\'a1\'bb\'f2\'c9\'e8\'d6\'c3\'b3\'f5\'ca\'bc\'bd\'f0\'b6\'ee double\par
+MoneyType \'bb\'f1\'c8\'a1\'bb\'f2\'c9\'e8\'d6\'c3\'bb\'f5\'b1\'d2\'c0\'e0\'d0\'cd string\par
+OwnerName \'bb\'f1\'c8\'a1\'c9\'e8\'d6\'c3\'d5\'ca\'bb\'a7\'bb\'a7\'d6\'f7\'c3\'fb\'b3\'c6 string\par
+RemainBlance \'bb\'f1\'c8\'a1\'bb\'f2\'c9\'e8\'d6\'c3\'d3\'e0\'b6\'ee double\par
+Remark \'bb\'f1\'c8\'a1\'bb\'f2\'c9\'e8\'d6\'c3\'b1\'b8\'d7\'a2\'d0\'c5\'cf\'a2 string\par
+StartDate \'bb\'f1\'c8\'a1\'bb\'f2\'c9\'e8\'d6\'c3\'bf\'aa\'bb\'a7\'c8\'d5\'c6\'da System.DateTime\par
+//\'b7\'bd\'b7\'a8\par
+//--------------------------------------------------------\par
+AccountCollection.cs \'b1\'ed\'ca\'be\'d3\'c9Account\'b6\'d4\'cf\'f3\'d7\'e9\'b3\'c9\'b5\'c4\'bc\'af\'ba\'cf\par
+//\'ca\'f4\'d0\'d4\par
+Count \'c8\'a1\'b5\'c3\'bc\'af\'ba\'cf\'d4\'aa\'cb\'d8\'b8\'f6\'ca\'fd int\par
+//\'b7\'bd\'b7\'a8\par
+Add \'cf\'f2\'bc\'af\'ba\'cf\'d6\'d0\'cc\'ed\'bc\'d3\'d4\'aa\'cb\'d8 int\par
+Remove \'b4\'d3\'bc\'af\'ba\'cf\'d6\'d0\'d2\'c6\'b3\'f6\'d6\'b8\'b6\'a8\'d4\'aa\'cb\'d8 void\par
+RemoveAt \'b4\'d3\'bc\'af\'ba\'cf\'d6\'d0\'d2\'c6\'b3\'f6\'d6\'b8\'b6\'a8\'cb\'f7\'d2\'fd\'b5\'c4\'d4\'aa\'cb\'d8 void\par
+\par
+//--------------------------------------------------------\par
+AccountManager.cs \'d5\'ca\'bb\'a7\'b9\'dc\'c0\'ed\'c6\'f7\'c0\'e0\'d0\'cd\par
+//\'ca\'f4\'d0\'d4\par
+AccoutList \'bb\'f1\'c8\'a1\'bb\'f2\'c9\'e8\'d6\'c3\'d5\'ca\'bb\'a7\'c1\'d0\'b1\'ed Financial.AccountCollection\par
+//\'b7\'bd\'b7\'a8\par
+LoadDataFromFile \'d6\'d8\'ce\'c4\'bc\'fe\'b6\'c1\'c8\'a1\'d5\'ca\'bb\'a7\'d0\'c5\'cf\'a2 bool\par
+SaveDataToFile \'bd\'ab\'d5\'ca\'bb\'a7\'b9\'dc\'c0\'ed\'ca\'fd\'be\'dd\'b1\'a3\'b4\'e6\'b5\'bd\'ce\'c4\'bc\'fe bool\par
+//--------------------------------------------------------\par
+\par
+FormAccountManage.cs \'d5\'ca\'bb\'a7\'b9\'dc\'c0\'ed\'b4\'b0\'bf\'da\par
+//\'ca\'f4\'d0\'d4\par
+//\'b7\'bd\'b7\'a8\par
+//--------------------------------------------------------\par
+\par
+FormDebitManage.cs \'bd\'e8\'b4\'fb\'b9\'dc\'c0\'ed\'b4\'b0\'bf\'da\par
+//\'ca\'f4\'d0\'d4\par
+//\'b7\'bd\'b7\'a8\par
+//--------------------------------------------------------\par
+\par
+FormAddAccount.cs \'d5\'ca\'bb\'a7\'cc\'ed\'bc\'d3\par
+//\'ca\'f4\'d0\'d4\par
+//\'b7\'bd\'b7\'a8\par
+//--------------------------------------------------------\par
+\par
+FormFinancialManage.cs \'b8\'f6\'c8\'cb\'c0\'ed\'b2\'c6\'b9\'dc\'c0\'ed\par
+//\'ca\'f4\'d0\'d4\par
+//\'b7\'bd\'b7\'a8\par
+//--------------------------------------------------------\par
+\par
+\par
+FormLogin.cs \'b5\'c7\'c2\'bd\'bd\'e7\'c3\'e6\par
+//\'ca\'f4\'d0\'d4\par
+//\'b7\'bd\'b7\'a8\par
+\par
+//--------------------------------------------------------\par
+\par
+FormRegistNewUser.cs \'d7\'a2\'b2\'e1\'d0\'c2\'d3\'c3\'bb\'a7\'b5\'c4\'b4\'b0\'cc\'e5\par
+//\'ca\'f4\'d0\'d4\par
+//\'b7\'bd\'b7\'a8\par
+\par
+//--------------------------------------------------------\par
+\par
+Program.cs \'d6\'f7\'b3\'cc\'d0\'f2\par
+//\'ca\'f4\'d0\'d4\par
+//\'b7\'bd\'b7\'a8\par
+Main \'d3\'a6\'d3\'c3\'b3\'cc\'d0\'f2\'b5\'c4\'d6\'f7\'c8\'eb\'bf\'da\'b5\'e3 void\par
+\par
+//--------------------------------------------------------\par
+\par
+Financial.Properties.Resources   \'d2\'bb\'b8\'f6\'c7\'bf\'c0\'e0\'d0\'cd\'b5\'c4\'d7\'ca\'d4\'b4\'c0\'e0\'a3\'ac\'d3\'c3\'d3\'da\'b2\'e9\'d5\'d2\'b1\'be\'b5\'d8\'bb\'af\'b5\'c4\'d7\'d6\'b7\'fb\'b4\'ae\'b5\'c8\par
+//\'ca\'f4\'d0\'d4\par
+//\'b7\'bd\'b7\'a8\par
+\par
+//--------------------------------------------------------\par
+\par
+\par
+UserCollection.cs \'b1\'ed\'ca\'be\'d3\'c9User\'b6\'d4\'cf\'f3\'d7\'e9\'b3\'c9\'b5\'c4\'bc\'af\'ba\'cf\par
+//\'ca\'f4\'d0\'d4\par
+//\'b7\'bd\'b7\'a8\par
+this \'cb\'f7\'d2\'fd\'c6\'f7 Financial.User\par
+Add \'cc\'ed\'bc\'d3\'d4\'aa\'cb\'d8 void\par
+Remove \'c9\'be\'b3\'fd\'d4\'aa\'cb\'d8 void\par
+RemoveAt \'b0\'b4\'cb\'f7\'d2\'fd\'ba\'c5\'c9\'be\'b3\'fd\'d4\'aa\'cb\'d8 void\par
+\par
+//--------------------------------------------------------\par
+\par
+UserManager.cs \'d3\'c3\'bb\'a7\'b9\'dc\'c0\'ed\'c6\'f7,\'b8\'ba\'d4\'f0\'d3\'c3\'bb\'a7\'cf\'e0\'b9\'d8\'d0\'c5\'cf\'a2\'b9\'dc\'c0\'ed\par
+//\'ca\'f4\'d0\'d4\par
+DirOfUserListFile \'bb\'f1\'c8\'a1\'b1\'a3\'b4\'e6\'d3\'c3\'bb\'a7\'c1\'d0\'b1\'ed\'b5\'c4\'ce\'c4\'bc\'fe\'b5\'c4\'ce\'c4\'bc\'fe\'bc\'d0\'b5\'c4\'be\'f8\'b6\'d4\'c2\'b7\'be\'b6 string\par
+DirOfUserListFile_Relative \'bb\'f1\'c8\'a1\'b1\'a3\'b4\'e6\'d3\'c3\'bb\'a7\'c1\'d0\'b1\'ed\'b5\'c4\'ce\'c4\'bc\'fe\'b5\'c4\'ce\'c4\'bc\'fe\'bc\'d0\'b5\'c4\'cf\'e0\'b6\'d4\'c2\'b7\'be\'b6 string\par
+PathOfUserListFile \'bb\'f1\'c8\'a1\'b1\'a3\'b4\'e6\'d3\'c3\'bb\'a7\'c1\'d0\'b1\'ed\'b5\'c4\'ce\'c4\'bc\'fe\'be\'f8\'b6\'d4\'c2\'b7\'be\'b6 string\par
+UserList \'bb\'f1\'c8\'a1\'bb\'f2\'c9\'e8\'d6\'c3\'b5\'b1\'c7\'b0\'cf\'b5\'cd\'b3\'cb\'f9\'d3\'d0\'d3\'c3\'bb\'a7\'b5\'c4\'c1\'d0\'b1\'ed Financial.UserCollection\par
+//\'b7\'bd\'b7\'a8\par
+\par
+//--------------------------------------------------------\par
+\par
+FormMain.cs \'cf\'b5\'cd\'b3\'d6\'f7\'b4\'b0\'bf\'da\par
+//\'ca\'f4\'d0\'d4\par
+//\'b7\'bd\'b7\'a8\par
+\par
+//--------------------------------------------------------\par
+\par
+User.cs \'cf\'b5\'cd\'b3\'d3\'c3\'bb\'a7\'c0\'e0\'d0\'cd\par
+//\'ca\'f4\'d0\'d4\par
+AccountMagr \'bb\'f1\'c8\'a1\'c6\'e4AccountManager\'b6\'d4\'cf\'f3 Financial.AccountManager\par
+DirOfDataFile \'bb\'f1\'c8\'a1\'d3\'c3\'bb\'a7\'ca\'fd\'be\'dd\'ce\'c4\'bc\'fe\'cb\'f9\'d4\'da\'c4\'bf\'c2\'bc\'b5\'c4\'be\'f8\'b6\'d4\'c2\'b7\'be\'b6 string\par
+DirOfDataFile_Relative \'bb\'f1\'c8\'a1\'d3\'c3\'bb\'a7\'ca\'fd\'be\'dd\'ce\'c4\'bc\'fe\'cb\'f9\'d4\'da\'c4\'bf\'c2\'bc\'b5\'c4\'cf\'e0\'b6\'d4\'c2\'b7\'be\'b6 string\par
+IsAdministrator \'bb\'f1\'c8\'a1\'bb\'f2\'c9\'e8\'d6\'c3\'d2\'bb\'b8\'f6\'d6\'b5\'a3\'ac\'c6\'e4\'d6\'b8\'ca\'be\'b8\'c3\'d3\'c3\'bb\'a7\'ca\'c7\'b7\'f1\'ce\'aa\'cf\'b5\'cd\'b3\'b9\'dc\'c0\'ed\'d4\'b1 bool\par
+PassWord \'bb\'f1\'c8\'a1\'bb\'f2\'c9\'e8\'d6\'c3\'c3\'dc\'c2\'eb string\par
+PathOfDataFile_Account \'bb\'f1\'c8\'a1\'d5\'ca\'bb\'a7\'b9\'dc\'c0\'ed\'ca\'fd\'be\'dd\'ce\'c4\'bc\'fe\'b5\'c4\'be\'f8\'b6\'d4\'c2\'b7\'be\'b6 string\par
+PathOfDataFile_Account_Relative \'bb\'f1\'c8\'a1\'d5\'ca\'bb\'a7\'b9\'dc\'c0\'ed\'ca\'fd\'be\'dd\'ce\'c4\'bc\'fe\'b5\'c4\'cf\'e0\'b6\'d4\'c2\'b7\'be\'b6 string\par
+UserName \'bb\'f1\'c8\'a1\'bb\'f2\'c9\'e8\'d6\'c3\'d3\'c3\'bb\'a7\'c3\'fb string\par
+\par
+//\'b7\'bd\'b7\'a8\par
+\par
+//--------------------------------------------------------\par
+Debit \'bd\'e8\'b4\'fb\'c0\'e0\'d0\'cd\par
+//\'ca\'f4\'d0\'d4\par
+Form \'bd\'e8\'b3\'f6\'b7\'bd string\par
+To \'bd\'e8\'c8\'eb\'b7\'bd string \par
+Balance \'bd\'f0\'b6\'ee double\par
+Date \'bd\'e8\'c8\'eb\'bd\'e8\'b3\'f6\'c8\'d5\'c6\'da DateTime\par
+About \'b1\'b8\'d7\'a2 string \par
+//\'b7\'bd\'b7\'a8\par
+\par
+\par
+//--------------------------------------------------------\par
+DebitCollection :Debit\'c0\'e0\'d0\'cd\'b6\'d4\'cf\'f3\'b5\'c4\'bc\'af\'ba\'cf\par
+//\'ca\'f4\'d0\'d4\par
+Count \'c8\'a1\'b5\'c3\'bc\'af\'ba\'cf\'d4\'aa\'cb\'d8\'b8\'f6\'ca\'fd int\par
+//\'b7\'bd\'b7\'a8\par
+Add \'cf\'f2\'bc\'af\'ba\'cf\'d6\'d0\'cc\'ed\'bc\'d3\'d4\'aa\'cb\'d8 int\par
+Remove \'b4\'d3\'bc\'af\'ba\'cf\'d6\'d0\'d2\'c6\'b3\'f6\'d6\'b8\'b6\'a8\'d4\'aa\'cb\'d8 void\par
+RemoveAt \'b4\'d3\'bc\'af\'ba\'cf\'d6\'d0\'d2\'c6\'b3\'f6\'d6\'b8\'b6\'a8\'cb\'f7\'d2\'fd\'b5\'c4\'d4\'aa\'cb\'d8 void\par
+\par
+//-------------------------------------------------------\par
+\par
+DebitManager :\'bd\'e8\'b4\'fb\'b9\'dc\'c0\'ed\'c6\'f7\'c0\'e0\'d0\'cd\par
+//\'ca\'f4\'d0\'d4\par
+DebitList \'bb\'f1\'c8\'a1\'bb\'f2\'c9\'e8\'d6\'c3\'bd\'e8\'b4\'fb\'c1\'d0\'b1\'ed Financial.DebitCollection\par
+//\'b7\'bd\'b7\'a8\par
+LoadDataFromFile \'d6\'d8\'ce\'c4\'bc\'fe\'b6\'c1\'c8\'a1\'d3\'c3\'bb\'a7\'bd\'e8\'b4\'fb\'d0\'c5\'cf\'a2 bool\par
+SaveDataToFile \'bd\'ab\'d3\'c3\'bb\'a7\'bd\'e8\'b4\'fb\'ca\'fd\'be\'dd\'b1\'a3\'b4\'e6\'b5\'bd\'ce\'c4\'bc\'fe bool\par
+//--------------------------------------------------------\par
+\par
+Income:\'d3\'c3\'bb\'a7\'ca\'d5\'d6\'a7\'c0\'e0\'d0\'cd\par
+//\'ca\'f4\'d0\'d4\par
+Owner:\'ca\'d5\'d6\'a7\'c8\'cb  string\par
+InBalance: \'ca\'d5\'c8\'eb\'bd\'f0\'b6\'ee double \par
+OutBalance:\'d6\'a7\'b3\'f6\'bd\'f0\'b6\'ee double\par
+IniBalance:\'b3\'f5\'ca\'bc\'bd\'f0\'b6\'ee double \par
+Balance: \'d3\'e0\'b6\'ee double\par
+Type: \'ca\'d5\'d6\'a7\'c0\'e0\'d0\'cd string\par
+Date: \'b7\'a2\'c9\'fa\'c8\'d5\'c6\'da DateTime\par
+About: \'b1\'b8\'d7\'a2 string\par
+//\'b7\'bd\'b7\'a8\par
+\par
+\par
+//-----------------------------------------------------------\par
+\par
+IncomeCollection: \'b1\'ed\'ca\'beIncome\'b6\'d4\'cf\'f3\'b5\'c4\'bc\'af\'ba\'cf\par
+//\'ca\'f4\'d0\'d4\par
+Count \'c8\'a1\'b5\'c3\'bc\'af\'ba\'cf\'d4\'aa\'cb\'d8\'b8\'f6\'ca\'fd int\par
+//\'b7\'bd\'b7\'a8\par
+Add \'cf\'f2\'bc\'af\'ba\'cf\'d6\'d0\'cc\'ed\'bc\'d3\'d4\'aa\'cb\'d8 int\par
+Remove \'b4\'d3\'bc\'af\'ba\'cf\'d6\'d0\'d2\'c6\'b3\'f6\'d6\'b8\'b6\'a8\'d4\'aa\'cb\'d8 void\par
+RemoveAt \'b4\'d3\'bc\'af\'ba\'cf\'d6\'d0\'d2\'c6\'b3\'f6\'d6\'b8\'b6\'a8\'cb\'f7\'d2\'fd\'b5\'c4\'d4\'aa\'cb\'d8 void\par
+\par
+//--------------------------------------------\par
+IncomeManager \'ca\'d5\'d6\'a7\'b9\'dc\'c0\'ed\'c6\'f7\'c0\'e0\'d0\'cd\par
+//\'ca\'f4\'d0\'d4\par
+IncomeList \'bb\'f1\'c8\'a1\'bb\'f2\'c9\'e8\'d6\'c3\'ca\'d5\'d6\'a7\'c1\'d0\'b1\'ed Financial.IncomeCollection\par
+//\'b7\'bd\'b7\'a8\par
+LoadDataFromFile \'b4\'d3\'ce\'c4\'bc\'fe\'b6\'c1\'c8\'a1\'ca\'d5\'d6\'a7\'d0\'c5\'cf\'a2 bool\par
+SaveDataToFile \'bd\'ab\'ca\'d5\'d6\'a7\'ca\'fd\'be\'dd\'b1\'a3\'b4\'e6\'b5\'bd\'ce\'c4\'bc\'fe bool\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+}
+ 

@@ -1,0 +1,10 @@
+
+
+public static long BigMul
+(
+int a, int b
+)
+{
+
+   return Math.BigMul(a,b);
+}

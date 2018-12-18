@@ -1,0 +1,9 @@
+
+//不要修改此行代码
+public static double Pow
+(
+double x, double y
+)
+{
+   return Math.Pow(x,y);
+}

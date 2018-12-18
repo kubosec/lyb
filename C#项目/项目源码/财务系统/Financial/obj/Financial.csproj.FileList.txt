@@ -1,0 +1,17 @@
+bin\Debug\Financial.exe
+bin\Debug\Financial.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Financial.FormMain.resources
+obj\Debug\Financial.Properties.Resources.resources
+obj\Debug\Financial.csproj.GenerateResource.Cache
+obj\Debug\Financial.exe
+obj\Debug\Financial.pdb
+obj\Debug\Financial.FormFinancialManage.resources
+obj\Debug\Financial.FormAccountManage.resources
+obj\Debug\Financial.FormDebitManage.resources
+obj\Debug\Financial.FormLogin.resources
+obj\Debug\Financial.FormAddAccount.resources
+obj\Debug\Financial.FormRegistNewUser.resources
+obj\Debug\Financial.FormManageItem.resources
+obj\Debug\Financial.FormPswModify.resources
+obj\Debug\Financial.AboutBox_AboutUs.resources

@@ -1,0 +1,10 @@
+
+//不要修改此行代码
+public static double Asin
+(
+double d
+)
+{
+
+   return Math.Asin(d);
+}
